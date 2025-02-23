@@ -30,6 +30,8 @@ else if((sudeCislo!==0 && zadaneCislo>=11 && zadaneCislo <=18)  || (sudeCislo!==
         document.body.innerHTML += 'Zadané číslo: ' + '<b>' + zadaneCislo + '</b>' +   ' je <b> liché  </b> a je <b> černé. </b>';
     };
 
+    
+
 
 
 
